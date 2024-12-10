@@ -1,12 +1,64 @@
-body{
-    background-color: rgb(184, 229, 229);
-   
 
-}
-#p1{
-    color: rgb(238, 31, 8);
-    cursor: pointer ;
-}
-prompt{
-    margin-top: 150px;
-}
+        body{
+            background-color: rgb(207, 242, 242);
+        
+             
+        }
+        h1{
+            margin-top: -10px;
+            margin-right: 30px;
+            left: 25px ;
+           } 
+
+        .contener{
+           position: absolute;
+            margin-top: 0px;
+            width: 350px;
+            display:flex;
+            flex-direction: row;
+        }
+
+        .id{
+            color: crimson;
+            margin-top: -15px;
+            font-size: 30px;
+            cursor: pointer;
+          }
+
+           .apagar{
+            background-color: rgb(245, 13, 102);
+            font-size: 25px;
+            
+            
+           }
+           table{
+            margin-top: -10;
+           }
+          td{
+            margin-top: -10px;
+            display:flex;
+            flex-wrap: wrap;
+
+          }
+          p{
+            margin-top: -5px;
+            display:flex;
+            flex-wrap: wrap;
+          }
+          #paralelo{
+            position: absolute;
+            margin-top: 50px;
+            background-color: rgb(17, 235, 235);
+            opacity: 90%;
+          }
+          marquee{
+            font-size: 35px;
+          }
+          .inicio{
+            position: absolute;
+            margin-top: 970px;
+            font-size: 25px;
+          }
+          #nome{
+            color: rgba(9, 89, 174, 0.95);
+          }
