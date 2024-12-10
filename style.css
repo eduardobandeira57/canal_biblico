@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(184, 229, 229);
+   
+
+}
+#p1{
+    color: rgb(238, 31, 8);
+    cursor: pointer ;
+}
+prompt{
+    margin-top: 150px;
+}
